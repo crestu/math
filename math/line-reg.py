@@ -10,8 +10,8 @@
 #function to calculate Exy
 # create linear regression function
 
-x = [3, 9, 5, 3]
-y = [8, 6, 4, 2]
+x = [1, 2, 3, 4]
+y = [2, 3, 5, 7]
 n = len(x)
 
 def Ex_squared(x):
